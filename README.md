@@ -9,9 +9,9 @@
 | Dataset ID | `831450` |
 | Location | Illinois |
 | Category | Restaurants |
-| Full dataset size | 2,443 records |
-| Free sample size | 120 records (4.91%) |
-| Last export | 2026-03-31T23:29:22.942449+00:00 |
+| Full dataset size | 1,203 records |
+| Free sample size | 120 records (9.98%) |
+| Last export | 2026-04-15T01:02:07.076237+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-illinois-us-sample-831450/releases/download/sample-latest/beamstation_831450_restaurants-us-il_SAMPLE_DIST.csv) |
 
 ## What is in this sample
