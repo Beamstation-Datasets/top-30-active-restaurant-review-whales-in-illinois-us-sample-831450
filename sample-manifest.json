@@ -1,12 +1,12 @@
 {
-  "export_job_id": "fc503d03-3787-4dd5-8e6a-0f920227caa1",
+  "export_job_id": "2fa060ab-3e75-42a3-8d2b-b51f11cf9d8e",
   "id_short": 831450,
-  "published_at": "2026-04-22T08:01:50Z",
+  "published_at": "2026-04-29T19:16:20Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-illinois-us-sample-831450",
   "sample_asset_name": "beamstation_831450_restaurants-us-il_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/831450/beamstation_831450_restaurants-us-il_SAMPLE_DIST.csv",
-  "sample_records": 110,
-  "sample_sha256": "423ed394fb1317802fd13f8a77a5814a575e82b903786d0e136d78b423e2c29d",
-  "sample_size_bytes": 425258,
-  "total_records": 1105
+  "sample_records": 11,
+  "sample_sha256": "65cf0d239af5c18aaedd99dc5d44c37725e7ea128103e0643c54612a8710f7b0",
+  "sample_size_bytes": 60343,
+  "total_records": 113
 }
